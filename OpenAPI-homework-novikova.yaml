@@ -74,7 +74,7 @@ paths:
 
     put:
       summary: Изменить данные о пользователе
-      description: Обновить данные о пользователе
+      description: Обновить данные о пользователе по идентификатору.
       operationId: usersIdPUT
       tags:
         - users
